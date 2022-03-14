@@ -9,11 +9,11 @@
 .history/
 
 venv/*
-sklep/db.sqlite3
-sklep/main/static/main/*
-sklep/main/__pycache__/*
-sklep/sklep/__pycache__/*
-sklep/manage.py
+blog/db.sqlite3
+blog/main/static/main/*
+blog/main/__pycache__/*
+blog/blog/__pycache__/*
+blog/manage.py
 
 # Django #
 *.log
